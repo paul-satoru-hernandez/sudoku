@@ -1,2 +1,2 @@
 # sudoku
-test commit
+Small sudoku website to build in my freetime
